@@ -11,7 +11,8 @@ Aplikasi cuaca berbasis mobile yang dibangun dengan Flutter. Aplikasi ini menyaj
 ## Prasyarat
 - [Flutter SDK](https://docs.flutter.dev/install) (versi terbaru)
 - [Dart SDK](https://dart.dev/get-dart)
-- Visual Studio Code / Android Studio
+- [JDK](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+- [VSCode](https://code.visualstudio.com/) / [Android Studio](https://developer.android.com/studio?hl=id)
 - API Key [OpenWeatherApp](https://openweathermap.org/api)
 
 ## Cara Instalasi
