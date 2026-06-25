@@ -17,4 +17,17 @@ Aplikasi cuaca berbasis mobile yang dibangun dengan Flutter. Aplikasi ini menyaj
 
 ## Cara Instalasi
 Berikut cara menjalankan proyek di komputer masing-masing:
+```
+bash
+
+git clone https://github.com/JohannesMRS/Weather_App.git
+```
+## Install Depedencies & Jalankan Aplikasi
+
+```
+flutter pub get
+flutter run
+```
+
+
 
