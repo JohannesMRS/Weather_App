@@ -1,17 +1,19 @@
-# weather_app
+# Weather App
 
-A new Flutter project.
+Aplikasi cuaca berbasis mobile yang dibangun dengan Flutter. Aplikasi ini menyajikan perkiraan cuaca secara realtime berdasarkan pencarian kota dengan memanfaatkan API OpenWeatherApp
 
-## Getting Started
+## Fitur Utama
+- **Pencarian Kota**
+- **Konversi Celcius ke Fahrenheit**
+- **Fitur Simpan Ke Favorit**
+- **Perkiraan Cuaca 4 Hari Ke Depan**
 
-This project is a starting point for a Flutter application.
+## Prasyarat
+- [Flutter SDK](https://docs.flutter.dev/install) (versi terbaru)
+- [Dart SDK](https://dart.dev/get-dart)
+- Visual Studio Code / Android Studio
+- API Key [OpenWeatherApp](https://openweathermap.org/api)
 
-A few resources to get you started if this is your first Flutter project:
+## Cara Instalasi
+Berikut cara menjalankan proyek di komputer masing-masing:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
